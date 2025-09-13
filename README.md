@@ -52,7 +52,7 @@ O sistema foi desenvolvido com:
 ## ▶️ Como Executar
 ```bash
 # Clonar o repositório
-git clone https://github.com/BrunoMartinsJorge/Projeto-Full-Stack-Linguagem-de-Programacao.git
+git clone 
 cd Projeto-Full-Stack-Linguagem-de-Programacao
 
 # ▶️ Backend (Spring Boot)
